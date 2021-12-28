@@ -4,3 +4,4 @@ This is a work in progress.
 >>Soon
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+Also there is some fun websites [here](/posts/first.html)
